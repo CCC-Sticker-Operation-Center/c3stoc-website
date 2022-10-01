@@ -1,4 +1,12 @@
-baseURL = 'https://stickeroperation.center/'
-languageCode = 'en-us'
-title = 'Sticker Operation Center'
-theme = 'compose'
+baseURL = "https://stickeroperation.center/"
+languageCode = "en-us"
+title = "Sticker Operation Center"
+theme = "compose"
+
+foobar = "baz"
+
+[logo]
+  lightMode = "images/c3stoc-rc3.png"
+  darkMode = "images/c3stoc-rc3.png"
+
+
