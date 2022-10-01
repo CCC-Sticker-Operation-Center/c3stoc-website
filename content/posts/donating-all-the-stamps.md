@@ -1,7 +1,7 @@
 ---
 title: "Donating aaaall the stamps"
 date: 2021-01-01T13:23
-draft: true
+draft: false
 ---
 
 ![box full of stamps](/images/stamps.jpg)
