@@ -4,6 +4,8 @@ date: 2020-12-30T14:55
 draft: true
 ---
 
+![post letter box full of envelopes](/images/stickerbox-large.jpg)
+
 -- English version below --
 
 Ca. 900 Rückumschläge sind bei uns eingetrudelt, und die eingehenden Stickerspenden zu wiegen habe ich ziemlich schnell aufgegeben. Das war echt eine überwältigende Resonanz.  

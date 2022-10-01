@@ -4,6 +4,8 @@ date: 2020-12-14T17:36
 draft: false
 ---
 
+![a large stack of envelopes](/images/stoc-per-day.jpg)
+
 -- English version below --
 
 Puh, der Sticker-Exchange ist auf mehr Resonanz gestoßen, als wir erwartet haben. Die Deadline ist vorbei, und zum jetztigen Zeitpunkt haben uns **832 Rückumschläge** erreicht, die es zu versenden gilt. Das ist eine ganz schöne Hausnummer!  
