@@ -1,6 +1,6 @@
 ---
 title: "Update: rC3 Sticker Exchange"
-date: 2020-12-14T17:36
+date: 2020-12-14
 draft: false
 ---
 

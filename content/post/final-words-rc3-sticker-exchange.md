@@ -1,6 +1,6 @@
 ---
 title: "Final Words: rC3 Sticker Exchange"
-date: 2020-12-30T14:55
+date: 2020-12-30
 draft: true
 ---
 

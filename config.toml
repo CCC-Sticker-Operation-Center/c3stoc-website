@@ -1,12 +1,8 @@
 baseURL = "https://stickeroperation.center/"
 languageCode = "en-us"
 title = "Sticker Operation Center"
-theme = "compose"
+theme = "arabica"
+paginate = 10
 
-foobar = "baz"
-
-[logo]
-  lightMode = "images/c3stoc-rc3.png"
-  darkMode = "images/c3stoc-rc3.png"
-
-
+[params]
+  dateFormatToUse = "2006-01-02"
