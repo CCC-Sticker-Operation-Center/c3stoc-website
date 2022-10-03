@@ -1,7 +1,7 @@
 baseURL = "https://stickeroperation.center/"
 languageCode = "en-us"
 title = "Sticker Operation Center"
-theme = "arabica"
+theme = "arabica-au-lait"
 paginate = 10
 
 [params]

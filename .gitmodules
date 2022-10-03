@@ -1,3 +1,6 @@
 [submodule "themes/arabica"]
 	path = themes/arabica
 	url = https://github.com/nirocfz/arabica
+[submodule "themes/arabica-au-lait"]
+	path = themes/arabica-au-lait
+	url = git@github.com:irimi1/arabica-au-lait.git
