@@ -4,3 +4,6 @@
 [submodule "themes/arabica-au-lait"]
 	path = themes/arabica-au-lait
 	url = git@github.com:irimi1/arabica-au-lait.git
+[submodule "themes/minimo"]
+	path = themes/minimo
+	url = git@github.com:irimi1/minimo.git
