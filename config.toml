@@ -1,8 +1,88 @@
 baseURL = "https://stickeroperation.center/"
 languageCode = "en-us"
 title = "Sticker Operation Center"
-theme = "arabica-au-lait"
+theme = "minimo"
 paginate = 10
 
-[params]
-  dateFormatToUse = "2006-01-02"
+preserveTaxonomyNames = true
+
+enableRobotsTXT = true # generate robots.txt
+
+# Syntax Highlighting ( https://gohugo.io/content-management/syntax-highlighting/ )
+pygmentsCodefences = true
+
+enableEmoji = true
+
+# Missing translations will default to this content language
+defaultContentLanguage = "en"
+
+[params.info]
+description = "Federating Stickerboxes since 36C3"
+title404 = "Nothing's here!"
+
+[params.assets]
+favicon = "favicon.ico"
+customCSS = ["css/custom.css"]
+customJS = ["js/custom.js"]
+
+[params.settings]
+# date & time format: https://golang.org/pkg/time/
+dateFormat = "2006-01-02"
+listDateFormat = "2006-01-02"
+archiveDateFormat = "2006-01-02"
+hideEntryNavigation = ["page"] # boolean / array of sections
+hideEntryMeta = ["page"] # boolean / array of sections
+showReadingTime = false
+showLastmod = false
+taxonomyCloudShuffle = false
+accentColor = "#6800e7"
+hideMainMenu = true
+
+[params.sidebar]
+enable = true
+
+[params.widgets]
+header = []
+homepage = ["recent_posts"]
+sidebar = ["about","sidebar_menu"]
+footer = ["social_menu"]
+
+[params.social]
+email = "contact@example.com"
+twitter = "c3stoc"
+
+[params.comments]
+enable = false
+
+# Utterances: https://utteranc.es
+[params.comments.utterances]
+enable = false
+issueTerm = "pathname" # pathname / url / title / og:title / <string>
+label = ""
+theme = "github-light"
+
+[taxonomies]
+author = "authors"
+category = "categories"
+series = "series"
+tag = "tags"
+
+[permalinks]
+page = "/:slug/"
+
+#[[menu.main]]
+#name = "Repo"
+#weight = -10
+#identifier = "repository"
+#url = "https://github.com/MunifTanjim/minimo"
+
+[blackfriday]
+hrefTargetBlank = true
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+weight = 1
+
