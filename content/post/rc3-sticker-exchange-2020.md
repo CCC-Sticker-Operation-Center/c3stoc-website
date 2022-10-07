@@ -1,7 +1,6 @@
 ---
 title: "rC3 Sticker Exchange"
 date: 2020-10-26
-draft: true
 ---
 
 ![36c3 sticker box](/images/36c3-stickerbox.jpg)

@@ -1,7 +1,6 @@
 ---
 title: "rc3 Sticker Exchange 2021 \\o/"
 date: 2021-10-26
-draft: false
 ---
 
 ![Sticker Table Image](/images/stickertable.jpg)

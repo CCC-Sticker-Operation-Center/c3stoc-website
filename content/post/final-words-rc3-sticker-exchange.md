@@ -1,7 +1,6 @@
 ---
 title: "Final Words: rC3 Sticker Exchange"
 date: 2020-12-30
-draft: true
 ---
 
 ![post letter box full of envelopes](/images/stickerbox-large.jpg)

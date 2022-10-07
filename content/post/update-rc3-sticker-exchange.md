@@ -1,7 +1,6 @@
 ---
 title: "Update: rC3 Sticker Exchange"
 date: 2020-12-14
-draft: false
 ---
 
 ![a large stack of envelopes](/images/stoc-per-day.jpg)
