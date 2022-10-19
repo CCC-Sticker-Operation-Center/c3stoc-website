@@ -5,7 +5,7 @@ date: 2020-10-26
 
 ![36c3 sticker box](/images/36c3-stickerbox.jpg)
 
--- English version below --
+**English version below**
 
 Moin! Ich bin Manu, und ich bin beim 36C3 beim Debut des C3stoc dabei gewesen.
 
@@ -59,7 +59,9 @@ Wir haben noch ein paar Aufkleber übrig von vergangenen Veranstaltungen. Wenn i
 bc1qrsxz4qa0cg7ytffzsc6z2hdhrxdrkdazjpk8xr
 ```
 
--- English Version --
+---
+
+## English Version
 
 Hi! I am Manu, and I’m a member of the C3stoc since its debut at 36C3.
 

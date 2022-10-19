@@ -5,7 +5,7 @@ date: 2020-12-30
 
 ![post letter box full of envelopes](/images/stickerbox-large.jpg)
 
--- English version below --
+**English version below**
 
 Ca. 900 Rückumschläge sind bei uns eingetrudelt, und die eingehenden Stickerspenden zu wiegen habe ich ziemlich schnell aufgegeben. Das war echt eine überwältigende Resonanz.  
 Abschließend habe ich (Manu) noch ein paar abschließende Worte (und Zahlen) für euch.
@@ -61,7 +61,9 @@ Die Aktion war zwar anstrengender und hat deutlich länger gedauert als angenomm
 
 **Update vom 2021-01-02**: Es sind zwei weitere unzustellbare Briefe zurückgekommen
 
--- English version --
+---
+
+## English version
 
 About 900 return envelopes have reached us, and I pretty quickly gave up weighing incoming sticker donations. You have overwhelmed us with your response.  
 To conclude this exchange, I (Manu) have a few final words (and numbers) for you.

@@ -6,7 +6,7 @@ date: 2021-01-01
 
 ![box full of stamps](/images/stamps.jpg)
 
--- English version below --
+**English version below**
 
 Mit eurer Post für den rC3-Stickerexchange sind auch einige Briefmarken bei uns eingetrudelt. Diese wurden natürlich nicht mit den Umschlägen in DSGVO-konformen Häppchen dem Altpapier zugeführt, sondern wurden getrennt gesammelt. Denn es gibt einen guten Ort um diese zu Spenden: die [Briefmarkenstelle Bethel](https://www.briefmarken-bethel.de/).
 
@@ -18,7 +18,9 @@ In diesem Sinne haben wir die oben abebildete Box mit bereits vorher gesammelten
 
 Wir wünschen euch ein frohes neues Jahr und ein gesundes 2021!
 
--- English version --
+---
+
+## English version
 
 With all your mail for the rC3 sticker exchange also arrived a lot of stamps. These have of course not been cut to sufficiently-GDPR-conform-sized pieces like the rest of the envelopes, but have been collected separately. This is because there is a good place to donate them: the “[Briefmarkenstelle Bethel](https://www.briefmarken-bethel.de/)”.
 

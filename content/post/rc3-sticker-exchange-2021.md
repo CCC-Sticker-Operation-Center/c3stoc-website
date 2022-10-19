@@ -5,7 +5,7 @@ date: 2021-10-26
 
 ![Sticker Table Image](/images/stickertable.jpg)
 
--- English version below --
+**English version below**
 
 Der Winter steht vor der Tür und für uns ist es Zeit, uns Gedanken über die diesjährige Stickerverteilung zu machen. Wie ihr sicher mitbekommen habt, wird es wie schon 2020 auch im Dezember 2021 keinen CCC als Präsenzveranstaltung geben. Auch wenn wir sehr traurig sind, dass es uns nicht möglich sein wird uns durch Stickerboxen zu wühlen und Berge von Aufklebern durch überfüllte Hallen zu transportieren, wollen wir auch in diesem Jahr das Beste aus der Situation machen.
 
@@ -68,7 +68,9 @@ Oder wie gesagt: Druckt Sticker!
 
 Kontakt: [exchange@stickeroperation.center](mailto:exchange@stickeroperation.center)
 
--- English version --
+---
+
+## English version
 
 Winter is coming and it's time for us to start thinking of how we'll be organizing a sticker distribution this year. As you probably know by now, like in 2020, there will be no physical CCC Congress in 2021. While we're super sad to not be able to dig through boxes at random assemblies and transport mountains of stickers through crowded halls, we decided to make the best of it this year again.
 
