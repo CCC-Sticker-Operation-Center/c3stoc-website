@@ -24,15 +24,20 @@ Um leer wirkenden Versandtaschen größer als Din A4 entgegenzuwirken habe ich m
 
 Vielen Dank allen, die uns Geld gespendet haben. Hier eine kurze Aufschlüsselung wieviele Spenden uns erreicht haben, und wie diese genutzt wurden.
 
-<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><strong>Bargeldspenden insgesamt</strong></td><td class="has-text-align-right" data-align="right"><strong>155€</strong></td></tr><tr><td>verwendet für fehlendes Porto eingehender Briefe</td><td class="has-text-align-right" data-align="right">~20€</td></tr><tr><td>verwendet für Briefmarken</td><td class="has-text-align-right" data-align="right">16€</td></tr><tr><td>Differenz für Manus Matefundus</td><td class="has-text-align-right" data-align="right">~14€</td></tr><tr><td><strong>Rest</strong></td><td class="has-text-align-right" data-align="right"><strong>105€</strong></td></tr></tbody></table></figure>
+- Bargeldspenden insgesamt: **155€**
+- verwendet für fehlendes Porto eingehender Briefe: **~20€**
+- verwendet für Briefmarken: **16€**
+- Differenz für Manus Matefundus: **~14€**
+- Rest: **105€**
 
 Wie ihr seht habe ich versäumt genauer Buch zu führen, wieviel Porto ich nachzahlen musste, und wieviel ich davon aus eigener Tasche gezahlt habe. Ich bitte das zu entschuldigen O:-)
 
 Auch in unser Bitcoin-Wallet sind einige Spenden eingegangen:
 
-<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><strong>Bitcoinspenden insgesamt</strong></td><td class="has-text-align-right" data-align="right"><strong>0.00689772</strong>&nbsp;<strong>BTC</strong></td></tr><tr><td><strong>Rest</strong></td><td class="has-text-align-right" data-align="right"><strong>0.00689772&nbsp;BTC</strong></td></tr></tbody></table></figure>
+- Bitcoinspenden insgesamt: **0.00689772 BTC**
+- Rest: **0.00689772 BTC**
 
-Aktuell (2020-12-30) entspricht das einem Betrag von 156,78€.
+Aktuell (2020-12-30) entspricht das einem Betrag von **156,78€**.
 
 Vielen Dank allen, die gespendet haben! Damit können wir auf jeden Fall coole Dinge bei der nächsten Veranstaltung anstellen. Was genau wir damit  machen werden, besprechen wir bei Zeiten aber im Team.
 
@@ -47,13 +52,13 @@ Man sieht auch, dass einige von euch echt spät dran waren, und einige Schlingel
 
 **Weitere Zahlen**
 
-Anzahl versandter Briefe: 934  
-Anzahl gefüllter (großer) Briefkisten: 6  
-Anzahl Beschäftigungstage: 6,5
-Anzahl verbrauchter CR2032 für die ~~Küchen~~Briefwaage: 1  
-Anzahl versehentlich zugefügter Papercuts: 1  
-Anzahl versendeter Briefe, die wegen zu hohem Gewicht nachfrankiert werden mussten: 2  
-Anzahl nicht zustellbarer Briefe: 3
+- Anzahl versandter Briefe: **934**
+- Anzahl gefüllter (großer) Briefkisten: **6**
+- Anzahl Beschäftigungstage: **6,5**
+- Anzahl verbrauchter CR2032 für die ~~Küchen~~Briefwaage: **1**  
+- Anzahl versehentlich zugefügter Papercuts: **1**
+- Anzahl versendeter Briefe, die wegen zu hohem Gewicht nachfrankiert werden mussten: **2**  
+- Anzahl nicht zustellbarer Briefe: **3**
 
 **Danke**
 
@@ -82,18 +87,20 @@ To prevent large envelopes from appearing empty, I have substituted with posters
 
 Thanks to all of you that donated to us. This is a quick overview how much money was donated and how it was used so far.
 
-<figure class="wp-block-table"><table><tbody><tr><td><strong>Cash donations total</strong></td><td class="has-text-align-right" data-align="right"><strong>155€</strong></td></tr><tr><td>used for missing postage on incoming envelopes</td><td class="has-text-align-right" data-align="right">~20€</td></tr><tr><td>used for stamps</td><td class="has-text-align-right" data-align="right">16€</td></tr><tr><td>difference for Manu’s Mate fund</td><td class="has-text-align-right" data-align="right">~14€</td></tr><tr><td><strong>remaining</strong></td><td class="has-text-align-right" data-align="right"><strong>105€</strong></td></tr></tbody></table></figure>
+- Cash donations total: **155€**
+- used for missing postage on incoming envelopes: **~20€**
+- used for stamps: **16€**
+- difference for Manu’s Mate fund: **~14€**
+- remaining: **105€**
 
 As you can see I failed to keep track how much postage I had to pay for incoming mail, and how much I paid out of my own pocket. Please excuse that O:-)
 
 Our bitcoin wallet also received donations:
 
-```goat
-Bitcoin donations total, 0.00689772 BTC
-remaining, 0.00689772 BTC 
-```
+- Bitcoin donations total: **0.00689772 BTC**
+- remaining: **0.00689772 BTC**
 
-As of today (2020-12-30) this corresponds to 156.78€.
+As of today (2020-12-30) this corresponds to **156.78€**.
 
 Thanks to all of you who donated! From this money we for sure can do cool stuff for you on the next event. What we will do exactly is subject to a team discussion though.
 
