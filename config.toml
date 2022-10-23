@@ -21,7 +21,7 @@ description = "Federating Stickerboxes since 36C3"
 title404 = "Nothing's here!"
 
 [params.assets]
-favicon = "favicon.ico"
+favicon = "favicon-rc3.png"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 
@@ -48,7 +48,7 @@ sidebar = ["about","sidebar_menu"]
 footer = ["social_menu"]
 
 [params.social]
-email = "contact@example.com"
+email = "exchange@stickeroperation.center"
 twitter = "c3stoc"
 mastodon = "@c3stoc@chaos.social"
 mastodonUrl = "https://chaos.social/@c3stoc"
