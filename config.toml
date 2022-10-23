@@ -50,6 +50,8 @@ footer = ["social_menu"]
 [params.social]
 email = "contact@example.com"
 twitter = "c3stoc"
+mastodon = "@c3stoc@chaos.social"
+mastodonUrl = "https://chaos.social/@c3stoc"
 
 [params.comments]
 enable = false
