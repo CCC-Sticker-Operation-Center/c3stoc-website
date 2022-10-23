@@ -63,7 +63,9 @@ Der einfachste (und datensparsamste) Weg wäre, einfach Bargeld mit in den Umsch
 
 Ein weiterer Weg zu unterstützen ist einfach Sticker drucken zu lassen und dann dem Exchange beizusteuern.
 
-Haben wir noch Fragen unbeantwortet gelassen? Meldet euch via [Mastodon](https://chaos.social/@c3stoc) oder [Twitter](https://twitter.com/c3stoc) bei uns, oder schreibt uns eine Email: [exchange@stickeroperation.center](mailto:exchange@stickeroperation.center)
+### Noch Fragen?
+
+Haben wir Fragen unbeantwortet gelassen? Meldet euch via [Mastodon](https://chaos.social/@c3stoc) oder [Twitter](https://twitter.com/c3stoc) bei uns, oder schreibt uns eine Email: [exchange@stickeroperation.center](mailto:exchange@stickeroperation.center)
 
 ---
 
