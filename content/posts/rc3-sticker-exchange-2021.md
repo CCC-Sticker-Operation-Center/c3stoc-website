@@ -1,5 +1,5 @@
 ---
-title: "rc3 Sticker Exchange 2021 \\o/"
+title: "rc3 Sticker Exchange 2021"
 date: 2021-10-26
 ---
 
