@@ -36,7 +36,7 @@ showReadingTime = false
 showLastmod = false
 taxonomyCloudShuffle = false
 accentColor = "#6800e7"
-hideMainMenu = true
+hideMainMenu = false
 
 [params.sidebar]
 enable = true

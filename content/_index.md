@@ -1,5 +1,5 @@
 +++
-title = "Sticker Operation Center"
+title = "Start"
 menu = "main"
 +++
 
