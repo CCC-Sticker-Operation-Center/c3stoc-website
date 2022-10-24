@@ -1,6 +1,7 @@
 +++
 title = "Start"
-menu = "main"
+menu = "sidebar"
+weight = -250
 +++
 
 We like stickers. And we like sharing.
