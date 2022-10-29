@@ -72,4 +72,60 @@ Haben wir Fragen unbeantwortet gelassen? Meldet euch via [Mastodon](https://chao
 
 ## English version
 
-tbd
+Sigh. With a heavy heart we acknowledged the news that [there will be no Congress again this year](https://events.ccc.de/2022/10/18/no-congress-2022/). Although this makes us very sad, we also think that this still is the right decision.
+
+We hoped this year we could get around filling a four-digit number of envelopes filled with adhesive artworks to all of you. But before we’re going to leave you hanging, we will again accept that challenge.
+
+**So there will be another sticker exchange this year.**
+
+And the disclaimer still applies: This exchange is run by a small team with only a few helping hands. So please be lenient in case something with the mail doesn’t run smoothly, or if the result isn’t exactly what you wished for.
+
+### The Process
+
+We will again accept stickers, sent to us by artists and those generous beings, that usually delight all of us Congress-goers. That’s how the stickers come to us.  
+In order for them to get into your mail boxes, you send us an empty envelope with your address and stamps with sufficient postage on it (Attention! Please read the instructions below!). This way we don’t have to store any of your personal data.  
+We will then fill every of your envelopes with a colourful mix from the sticker donations sent to us, and send it back your way.
+
+### I would like some stickers, what do I have to do?
+
+You simply prepare an envelope that you address to yourselves (or your friends) and apply sufficient postage stamps to. The best option for individuals would be a **“Kompaktbrief” for 1.00€ postage fees**. A regular “Standardbrief” (for maximum 20g) simply isn’t sufficient for an appropriate mix of stickers.
+
+**Important: Please don’t use the “Mobile Porto” of the Deutsche Post**. Those stamps are only valid for a limited amount of time and we have no way of knowing for how much postage fees they account, which will cost us a lot of work, energy and money. So: Any envelopes with “mobile stamps” will not be filled and sent back to you.
+
+**Also important: Please pay attention to which stamps are appropriate for which envelope size**. For Din A5 envelopes i.e. a 1€ stamp would not be enough, you would have to apply a “Großbrief” stamp for 1.60€.
+
+Of course you can collect multiple return envelopes and send them together in order to save postage fees and paper.  
+In case you are a larger group (i.e. a hacker space or an assembly), you can send us a larger return envelope with more stamps on it. If you do that, please add a note which group or space it is for.
+
+In order to take part, we need your return envelopes before **December 12th**. So please make sure you send it early (especially if you’re not living in Germany!), so they will reach us in time, Deutsche Post isn’t always super fast ;) Envelopes that arrive too late cannot be filled and sent back to you.
+
+TBD PO BOX
+
+### I want to attribute stickers, how do I do that?
+
+First and foremost: Thank you very much! It’s you who make this exchange possible (and exciting) in the first place <3
+
+Sticker donations can in principle be sent to the PO box mentioned above, as long as they still fit into a letter. If you would rather send us a package instead, please send us an email at [exchange@stickeroperation.center](mailto:exchange@stickeroperation.center) so we can send you a another address (it’s not the same as last year!). Those letters and packages also need to reach us before December 12th. Please don’t send them too late, last time we had to drag a lot of packages back to the post office and send them back, without even having opened them :/ The PO box does not accept packages!
+
+Also please don’t send us more than 2000 pieces with the same design on it. This would only lead to us having to store them until the next Chaos event.
+
+### I don’t live in Germany, what about me?
+
+You can buy German stamps [online as well](https://www.deutschepost.de/en/b/brief_postkarte.html), which you can the nprint at home. Please select the **“up to 50 g”** option and plan ahead, so your mail will reach us before December 12th :)
+
+### What if you don’t get enough sticker donations?
+
+Last year we virtually drowned in your donations (in a positive sense). This means firstly that we still have a few leftovers from last year, and secondly that we don’t worry at all that you will suddenly suffer from a loss of creativity and drive this year.
+
+### What do you do with the surplus?
+
+We try to keep it minimal by distributing as much as possible to you all. Everything that’s still left over will be kept until the next Chaos (or Chaos adjacent) events, in order to distribute them there. This year for example we surprised the [Bits und Bäume](https://twitter.com/c3stoc/status/1576186106902884352?cxt=HHwWgMDRnbm63t8rAAAA) and the [GPN](https://twitter.com/c3stoc/status/1527660359833763840?s=20&t=Qe_FEalAq30TunH6h5zx7w) with a happy mix of stickers. The next big event will then probably be the camp 2023.
+
+### How can I support you?
+
+We receive a fait amount of questions regarding donations. To keep it short: If you want to donate money to us, we will gladly accept it and use it for example to supplement missing postage, buy Club Mate for our beloved volunteers, or to print stickers ourselves for upcoming Chaos events.  
+The easiest (and privacy friendliest) way would be to just put cash into the envelope that you’re sending us anyways. Another way would of course be to just print stickers and send them to us for distribution.
+
+### Are there any questions?
+
+We didn’t manage to answer all your questions? Contact us via [Mastodon](https://chaos.social/@c3stoc) or [Twitter](https://twitter.com/c3stoc), or just send us an email: [exchange@stickeroperation.center](mailto:exchange@stickeroperation.center)
