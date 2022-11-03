@@ -1,6 +1,7 @@
 ---
 title: "Sticker Exchange 2022"
 date: 2022-10-23
+draft: true
 ---
 
 ![table with leftover stickers from 2021’s exchange](/images/leftover-table-2021.jpg)
