@@ -1,7 +1,6 @@
 ---
 title: "Sticker Exchange 2022"
-date: 2022-10-23
-draft: true
+date: 2022-11-10
 ---
 
 ![table with leftover stickers from 2021’s exchange](/images/leftover-table-2021.jpg)
@@ -36,7 +35,9 @@ Seid ihr eine größere Gruppe (z.B. ein Hackspace oder eine Assembly), könnt i
 Um teilzunehmen, brauchen wir eure Briefumschläge bis zum **12. Dezember**. Sorgt bitte dafür, dass ihr sie mit genug Vorlauf schickt (vor allem aus dem Ausland!), damit sie rechtzeitig ankommen, die Post ist nicht immer super schnell ;)
 Briefe, die wir später bekommen, können nicht gefüllt und zurückgeschickt werden.
 
-TBD POSTBOX
+M. Gutbub  
+Postfach 21268  
+10124 Berlin
 
 ### Ich möchte gerne Aufkleber beisteuern, wie geht das?
 
@@ -100,7 +101,10 @@ In case you are a larger group (i.e. a hacker space or an assembly), you can sen
 
 In order to take part, we need your return envelopes before **December 12th**. So please make sure you send it early (especially if you’re not living in Germany!), so they will reach us in time, Deutsche Post isn’t always super fast ;) Envelopes that arrive too late cannot be filled and sent back to you.
 
-TBD PO BOX
+M. Gutbub  
+Postfach 21268  
+10124 Berlin  
+GERMANY
 
 ### I want to attribute stickers, how do I do that?
 
