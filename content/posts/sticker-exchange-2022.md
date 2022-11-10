@@ -3,7 +3,7 @@ title: "Sticker Exchange 2022"
 date: 2022-11-10
 ---
 
-![table with leftover stickers from 2021’s exchange](/images/leftover-table-2021.jpg)
+![table with stickers from 2021’s exchange](/images/exchange-2021-table.png)
 
 **English version below**
 
