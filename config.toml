@@ -18,7 +18,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = "Federating Stickerboxes since 36C3"
-title404 = "Nothing's here!"
+title404 = "Nothing’s here!"
 
 [params.assets]
 favicon = "favicon-rc3.png"
