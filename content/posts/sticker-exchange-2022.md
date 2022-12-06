@@ -106,7 +106,7 @@ Postfach 21268
 10124 Berlin  
 GERMANY
 
-### I want to attribute stickers, how do I do that?
+### I want to contribute stickers, how do I do that?
 
 First and foremost: Thank you very much! It’s you who make this exchange possible (and exciting) in the first place <3
 
