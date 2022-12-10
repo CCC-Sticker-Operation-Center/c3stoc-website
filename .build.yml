@@ -7,6 +7,7 @@ sources:
 secrets:
   - 02e75aca-3e7d-4356-b2c8-129e1ead2b34
   - 8d08db0a-8b59-4026-a85e-90da7ab2342f
+  - 239b9429-76e3-45e1-ad6e-d3cdd75718cf
 tasks:
   - build: |
       cd c3stoc-website
