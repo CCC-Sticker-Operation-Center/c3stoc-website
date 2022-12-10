@@ -7,6 +7,8 @@ date: 2022-11-10
 
 **English version below**
 
+**Das Zeitfenster für’s Einsenden von Stickern und Rückumschlägen ist vorbei. Bitte schickt keine Einsendungen mehr los, da sie nicht mehr rechtzeitig ankommen würden!**
+
 Seufz. Schweren Herzens haben wir die Neuigkeiten zur Kenntnis genommen, dass [dieses Jahr wieder kein Congress stattfinden wird](https://events.ccc.de/2022/10/18/no-congress-2022/). Auch wenn wir darüber sehr traurig sind, sind wir der Meinung, dass dies die richtige Entscheidung ist.
 
 Eigentlich hatten wir gehofft, dass wir dieses Jahr drumrum kommen, wieder eine vierstellige Anzahl von Briefumschlägen gefüllt mit bunter Klebekunst an euch zu verschicken. Aber bevor wir euch leer ausgehen lassen, stürzen wir uns dieses Jahr erneut auf die Herausforderung.
@@ -35,9 +37,7 @@ Seid ihr eine größere Gruppe (z.B. ein Hackspace oder eine Assembly), könnt i
 Um teilzunehmen, brauchen wir eure Briefumschläge bis zum **12. Dezember**. Sorgt bitte dafür, dass ihr sie mit genug Vorlauf schickt (vor allem aus dem Ausland!), damit sie rechtzeitig ankommen, die Post ist nicht immer super schnell ;)
 Briefe, die wir später bekommen, können nicht gefüllt und zurückgeschickt werden.
 
-M. Gutbub  
-Postfach 21268  
-10124 Berlin
+*Adresse entfernt*
 
 ### Ich möchte gerne Aufkleber beisteuern, wie geht das?
 
@@ -74,6 +74,8 @@ Haben wir Fragen unbeantwortet gelassen? Meldet euch via [Mastodon](https://chao
 
 ## English version
 
+**The time window for sending in stickers and envelopes is over, please do not send in anything anymore because it won’t arrive in time!**
+
 Sigh. With a heavy heart we acknowledged the news that [there will be no Congress again this year](https://events.ccc.de/2022/10/18/no-congress-2022/). Although this makes us very sad, we also think that this still is the right decision.
 
 We hoped this year we could get around filling a four-digit number of envelopes filled with adhesive artworks to all of you. But before we’re going to leave you hanging, we will again accept that challenge.
@@ -101,10 +103,7 @@ In case you are a larger group (i.e. a hacker space or an assembly), you can sen
 
 In order to take part, we need your return envelopes before **December 12th**. So please make sure you send it early (especially if you’re not living in Germany!), so they will reach us in time, Deutsche Post isn’t always super fast ;) Envelopes that arrive too late cannot be filled and sent back to you.
 
-M. Gutbub  
-Postfach 21268  
-10124 Berlin  
-GERMANY
+*Address removed*
 
 ### I want to contribute stickers, how do I do that?
 
