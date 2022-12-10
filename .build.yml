@@ -15,7 +15,7 @@ tasks:
       cd c3stoc-website
       if [ "$(git rev-parse origin/main)" == "$(git rev-parse HEAD)" ] ; then
         sshopts="ssh -o StrictHostKeyChecking=no"
-        rsync -e "$sshopts" -rP --del --force public/ irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/stickeroperation.center/
+        rsync --rsh="$sshopts" -rP --del --force public irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/stickeroperation.center/
        else
          echo "Not the 'main' branch, skipping deployment"
        fi
