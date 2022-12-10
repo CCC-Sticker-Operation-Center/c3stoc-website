@@ -3,4 +3,4 @@
 	url = https://github.com/nirocfz/arabica
 [submodule "themes/minimo"]
 	path = themes/minimo
-	url = git@github.com:irimi1/minimo.git
+	url = git@github.com:manu-cyber/minimo.git
