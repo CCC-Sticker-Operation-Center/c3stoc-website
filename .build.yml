@@ -1,0 +1,19 @@
+image: alpine/latest
+packages:
+  - rsync
+  - hugo
+sources:
+  - git@github.com:manu-cyber/c3stoc-website.git
+secrets:
+  - 02e75aca-3e7d-4356-b2c8-129e1ead2b34
+  - 8d08db0a-8b59-4026-a85e-90da7ab2342f
+tasks:
+  - build: |
+      cd c3stoc-website
+      hugo
+  - deploy: |
+      cd c3stoc-website
+      sshopts="ssh -o StrictHostKeyChecking=no"
+      rsync -e "$sshopts" -rP --del --force public/ irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/c3stoc.irimi.one/
+Footer
+
