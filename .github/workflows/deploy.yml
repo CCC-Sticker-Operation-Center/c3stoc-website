@@ -1,13 +1,15 @@
-name: Build/Deploy 
+name: Deploy 
 
 concurrency: build_deployment
 
 on:
   push:
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
@@ -24,10 +26,7 @@ jobs:
       - name: Build website
         run: |
           hugo
-  deploy:
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
+
         # https://www.webfactory.de/blog/use-ssh-key-for-private-repositories-in-github-actions
       - name: Setup SSH keys and known_hosts
         env:
