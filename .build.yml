@@ -5,7 +5,7 @@ packages:
 sources:
   - git@github.com:manu-cyber/c3stoc-website.git
 secrets:
-  - 2f4d6213-d8d0-41f6-ba8c-4572ac25bfac
+  - 2f764dcf-925b-44bf-b97e-e78039fedd15
 tasks:
   - build: |
       cd c3stoc-website
