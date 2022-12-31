@@ -1,0 +1,46 @@
+name: Build/Deploy 
+
+concurrency: build_deployment
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          # Fetch themes
+          submodules: true
+          fetch-depth: 0
+
+      - name: Install hugo
+        run: |
+          sudo apt-get update
+          sudo apt-get install hugo
+
+      - name: Build website
+        run: |
+          hugo
+  deploy:
+    runs-on: ubuntu-latest
+    needs: build
+    if: github.ref == '/refs/heads/main'
+    steps:
+        # https://www.webfactory.de/blog/use-ssh-key-for-private-repositories-in-github-actions
+      - name: Setup SSH keys and known_hosts
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        run: |
+          ssh-agent -a ${SSH_AUTH_SOCK} > /dev/null
+          ssh-add - <<< "${{ secrets.C3STOC_DEPLOY_SSH_KEY }}"
+
+      - name: Deploy website
+        env:
+          SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+          SSH_OPTS: "ssh -o StrictHostKeyChecking=no"
+        run: |
+          rsync -rsh="${SSH_OPTS}" -rP --del --force public irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/stickeroperation.center/
