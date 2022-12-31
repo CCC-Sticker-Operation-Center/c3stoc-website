@@ -41,4 +41,4 @@ jobs:
           SSH_AUTH_SOCK: /tmp/ssh_agent.sock
           SSH_OPTS: "ssh -o StrictHostKeyChecking=no"
         run: |
-          rsync --rsh=\"ssh -o StrictHostKeyChecking=no\" -rP --del --force public irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/stickeroperation.center/
+          rsync --rsh="ssh -o StrictHostKeyChecking=no" -rP --del --force public irimi1@wirtanen.uberspace.de:/var/www/virtual/irimi1/stickeroperation.center/
