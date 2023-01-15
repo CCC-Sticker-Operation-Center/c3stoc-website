@@ -1,6 +1,6 @@
 ---
 title: "Sticker Exchange 2022: The good, the Bad, the Learnings"
-linktitle: Sticker Exchange 2022: The good, the Bad, the Learnings
+linktitle: "Sticker Exchange 2022: The good, the Bad, the Learnings"
 date: 2023-01-15
 ---
 
