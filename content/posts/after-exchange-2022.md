@@ -37,7 +37,7 @@ Weil alles andere viel zu lang wäre, wenn wir es ausführlich aufschrieben, kom
 
 - Keine gute Idee: Umschläge für eure 13 Kolleg*innen, Familie und Freund*innen - meistens ohne Sticker beizutragen. Womit sollen wir das denn füllen, müssen andere Menschen Sticker liefern, damit ihr Weihnachtsmann/-frau spielen dürft? Auch nicht cool: X Umschläge für eine Familie, weil ihr nicht teilen wollt. Das geht leider immer auf Kosten der anderen, weil wenn viele das so machen, gibts weniger Sticker pro Umschlag.
 
-- RTFM: Kein Bock, Fragen zu beantworten oder Porto auf Umschläge zu korrigieren, weil Menschen sich nicht die Zeit nehmen, den Blogpost zu lesen ¯\_(ツ)_/¯
+- RTFM: Kein Bock, Fragen zu beantworten oder Porto auf Umschläge zu korrigieren, weil Menschen sich nicht die Zeit nehmen, den Blogpost zu lesen ¯\\_(ツ)_/¯
 
 - Die Deadline ist die Deadline. Wir haben sogar noch eine Woche nach Ablauf der Deadline gefüllte Umschläge versendet. Wir wünschen uns, dass unsere klar kommunizierten Grenzen respektiert werden.
 
@@ -114,7 +114,7 @@ Because everything else would be far too long if we wrote it down in detail, her
 
 - Not a good idea: sending envelopes for your 13 colleagues, family and friends - usually without contributing stickers. What are we supposed to fill them with, do other people have to provide stickers so you can play Santa Claus? Also not cool: X envelopes for a family because you don't want to share. Unfortunately, this happens at the expense of others, because if many people do this, there will be fewer stickers in each envelope.
 
-- RTFM: We don't want to have to answer questions or correct postage on envelopes because people don't take the time to read the blogpost ¯\_(ツ)_/¯
+- RTFM: We don't want to have to answer questions or correct postage on envelopes because people don't take the time to read the blogpost ¯\\_(ツ)_/¯
 
 - The deadline is the deadline. We even filled and mailed envelopes a week after the deadline. We would like our boundaries, which were clearly communicated, to be respected.
 
