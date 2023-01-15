@@ -37,7 +37,7 @@ Weil alles andere viel zu lang wäre, wenn wir es ausführlich aufschrieben, kom
 
 - Keine gute Idee: Umschläge für eure 13 Kolleg*innen, Familie und Freund*innen - meistens ohne Sticker beizutragen. Womit sollen wir das denn füllen, müssen andere Menschen Sticker liefern, damit ihr Weihnachtsmann/-frau spielen dürft? Auch nicht cool: X Umschläge für eine Familie, weil ihr nicht teilen wollt. Das geht leider immer auf Kosten der anderen, weil wenn viele das so machen, gibts weniger Sticker pro Umschlag.
 
-- RTFM: Kein Bock, Fragen zu beantworten oder Porto auf Umschläge zu korrigieren, weil Menschen sich nicht die Zeit nehmen, den Blogpost zu lesen ¯\\_(ツ)_/¯
+- RTFM: Kein Bock, Fragen zu beantworten oder Porto auf Umschläge zu korrigieren, weil Menschen sich nicht die Zeit nehmen, den Blogpost zu lesen ¯\\\_(ツ)\_/¯
 
 - Die Deadline ist die Deadline. Wir haben sogar noch eine Woche nach Ablauf der Deadline gefüllte Umschläge versendet. Wir wünschen uns, dass unsere klar kommunizierten Grenzen respektiert werden.
 
@@ -59,7 +59,7 @@ Wichtig ist vor allem eine klare Kommunikation: Dieses Jahr war unsere Kommunika
 
 - Weil es Prozesse deutlich verschlanken würde, empfehlen wir, nur 2 Umschlagsgrößen (z.B. A6 und ähnliche, DIN lang und A5) anzunehmen und 2 Arten von Briefmarken (Kompakt- und Großbrief). Die A4-Briefe werden eh nicht gefüllt und das würde die Arbeit deutlich vereinfachen, da die Großannahmestelle der Post alles vorsortiert bekommen möchte. Für Briefe aus dem Ausland kann man natürlich Ausnahmen machen.
 
-- Rollen und Sheets mit mehreren Aufklebern sind nicht so cool. Wie sollen wir das denn breit verteilen? 10 Tage später hatten wir immer noch Blasen an den Hände weil wie die Space Bars geschnitten haben, damit alle welche bekommen können T_T
+- Rollen und Sheets mit mehreren Aufklebern sind nicht so cool. Wie sollen wir das denn breit verteilen? 10 Tage später hatten wir immer noch Blasen an den Hände weil wie die Space Bars geschnitten haben, damit alle welche bekommen können T\_T
 
 - Every Sticker counts: Dieses Jahr haben weniger Menschen uns ihre Stickerreste geschickt, als im vorigen Jahr (es waren mehr große Pakete, dafür weniger Umschläge). Das liegt bestimmt daran, dass nach 3 Jahren Exchange wenig übrig bleibt, aber trotzdem lohnt es sich zu sagen: Ja, diese 6 Sticker hinten in der Schublade, die ihr nicht so cool findet, sind für eine andere Person absolute Schätze. 
 
@@ -72,7 +72,7 @@ Wichtig ist vor allem eine klare Kommunikation: Dieses Jahr war unsere Kommunika
 
 - 21 Umschläge haben wir nicht geschickt, weil sie mehr als eine Woche nach der Deadline bei uns angekommen sind.
 
-- Die Briefmarken der eingehenden Briefe haben wir, wie die letzten Jahre, wieder an die Briefmarkenstelle Bethel gespendet (sorry liebe Briefmarkensammler*innen unter euch).
+- Die Briefmarken der eingehenden Briefe haben wir, wie die letzten Jahre, wieder an die Briefmarkenstelle Bethel gespendet (sorry liebe Briefmarkensammler\*innen unter euch).
 
 - Weil sie schon sehr früh bei uns angefragt haben und die c-base uns letztes Jahr für die Packacktion gehostet hat, haben wir eine [Stickerbox für die Hacking in Parallel](https://chaos.social/@c3stoc/109585626317366509) bereitgestellt. LINK TOOT Leider mussten wir das den anderen dezentralen Veranstaltungen absagen, die uns kurzfristig angefragt haben, da wir keine Kapazitäten dafür hatten bzw. uns unsicher waren, ob es reichen wird.
 
@@ -114,7 +114,7 @@ Because everything else would be far too long if we wrote it down in detail, her
 
 - Not a good idea: sending envelopes for your 13 colleagues, family and friends - usually without contributing stickers. What are we supposed to fill them with, do other people have to provide stickers so you can play Santa Claus? Also not cool: X envelopes for a family because you don't want to share. Unfortunately, this happens at the expense of others, because if many people do this, there will be fewer stickers in each envelope.
 
-- RTFM: We don't want to have to answer questions or correct postage on envelopes because people don't take the time to read the blogpost ¯\\_(ツ)_/¯
+- RTFM: We don't want to have to answer questions or correct postage on envelopes because people don't take the time to read the blogpost ¯\\\_(ツ)\_/¯
 
 - The deadline is the deadline. We even filled and mailed envelopes a week after the deadline. We would like our boundaries, which were clearly communicated, to be respected.
 
@@ -136,7 +136,7 @@ The most important thing is to communicate clearly: this year our communication 
 
 - Because it would significantly streamline processes, we recommend accepting only 2 envelope sizes (e.g. A6 and similar longer DIN envelopes and A5) and 2 types of stamps ("Kompakt" and "Großbrief" in the case of Deutsche Post). The A4 letters were not filled to the maximum anyway, and this would make the work much easier, as the Post accepts such amounts only if they are sorted by size and type of stamps. Of course, exceptions can be made for letters from abroad.
 
-- Rolls and sheets with multiple stickers are not cool. How are we supposed to distribute these? We still had blisters on our hands more than a week later because we cut the space bar stickers so everyone could have them T_T
+- Rolls and sheets with multiple stickers are not cool. How are we supposed to distribute these? We still had blisters on our hands more than a week later because we cut the space bar stickers so everyone could have them T\_T
 
 - Every Sticker counts: This year, fewer people than last year sent us their sticker leftovers (there were more large packages, but fewer envelopes). This is probably due to the fact that after 3 years of exchanges there is little left, but still it is worth saying: Yes, those 6 stickers in the back of the drawer that you don't think are so cool are absolute treasures for another person. 
 
