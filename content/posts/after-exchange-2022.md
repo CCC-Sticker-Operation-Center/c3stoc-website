@@ -1,6 +1,6 @@
 ---
-title: "Sticker Exchange 2022: The good, the Bad, the Learnings"
-linktitle: "Sticker Exchange 2022: The good, the Bad, the Learnings"
+title: "Sticker Exchange 2022: The Good, the Bad, the Learnings"
+linktitle: "Sticker Exchange 2022: The Good, the Bad, the Learnings"
 date: 2023-01-15
 ---
 
@@ -74,7 +74,7 @@ Wichtig ist vor allem eine klare Kommunikation: Dieses Jahr war unsere Kommunika
 
 - Die Briefmarken der eingehenden Briefe haben wir, wie die letzten Jahre, wieder an die Briefmarkenstelle Bethel gespendet (sorry liebe Briefmarkensammler\*innen unter euch).
 
-- Weil sie schon sehr früh bei uns angefragt haben und die c-base uns letztes Jahr für die Packacktion gehostet hat, haben wir eine [Stickerbox für die Hacking in Parallel](https://chaos.social/@c3stoc/109585626317366509) bereitgestellt. LINK TOOT Leider mussten wir das den anderen dezentralen Veranstaltungen absagen, die uns kurzfristig angefragt haben, da wir keine Kapazitäten dafür hatten bzw. uns unsicher waren, ob es reichen wird.
+- Weil sie schon sehr früh bei uns angefragt haben und die c-base uns letztes Jahr für die Packacktion gehostet hat, haben wir eine [Stickerbox für die Hacking in Parallel](https://chaos.social/@c3stoc/109585626317366509) bereitgestellt. Leider mussten wir das den anderen dezentralen Veranstaltungen absagen, die uns kurzfristig angefragt haben, da wir keine Kapazitäten dafür hatten bzw. uns unsicher waren, ob es reichen wird.
 
 - Insgesamt bestand das Team aus 5 Personen - 2 Personen um die ganze Aktion zu planen und durchzuführen (Core Team), 3 Volunteers haben uns bei Packen unterstützt - danke dafür! 
 
