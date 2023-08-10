@@ -4,6 +4,8 @@ linktitle: "See you at CCCamp 2023"
 date: 2023-08-10
 ---
 
+![photo of a small but lovely sticker box with a sticker exchange sign at the tea tent](/images/tent-stickers_smaller.jpg)
+
 **English version below**
 
 Hey, lange nicht gesehen!
