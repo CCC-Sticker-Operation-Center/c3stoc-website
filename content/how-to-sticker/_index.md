@@ -12,6 +12,8 @@ Before we get started:
 - there are more nice tools, good printers and resources than the one we list here – it is always a great idea to ask communities and people around you for advice. Or do some additional research!
 - if you have any specific questions, we’re always happy to help you point to an answer :)
 
+***Hint**: We are working on a german translation for this guide (as well as the rest of this website).*
+
 ## What’s a good sticker motive?
 
 What makes a good sticker design really depends on the message you would like to send, the community it addresses, and where you would like to see it generally. 
