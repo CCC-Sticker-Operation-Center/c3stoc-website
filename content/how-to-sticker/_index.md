@@ -126,6 +126,8 @@ Asking for feedback before printing your stickers is *always* a good idea. There
 
 Your friends also just could have good ideas in general how to improve your design. We do this ourselves as well and always ask a few selected people whether we missed something. Just take manu’s “Cyberpunk” sticker for example. [This](https://github.com/manu-cyber/stickers/blob/master/cyberpunk/cyberpunk-draft.png) is what the original draft looked like, and [this](https://github.com/manu-cyber/stickers/blob/master/cyberpunk/cyberpunk-slim_as-paths.svg) is the final design. Quite the difference, right? Which version looks better to you?
 
+![Initial idea and final version next to each other](./cyberpunk-comparison.png)
+
 ## Preparing the design for printing
 
 ### Tolerances
