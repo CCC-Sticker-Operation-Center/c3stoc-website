@@ -37,7 +37,7 @@ People generally want to put stickers on their laptops, smartphones and other de
 
 In order to find out what works, look out for what people often have on their laptops. Here are some examples of what kind of stickers we personally enjoy:
 
-**TODO: insert examples from talk slides here**
+![a badly cut together image from photos of some stickers we enjoy](./sticker-examples.png)
 
 If you need more inspiration, consider checking out one of those projects:
 
@@ -96,7 +96,9 @@ Website: https://inkscape.org/
 
 Here are a few good resources for working with Inkscape:
 
-- [YouTube: Logos By Nick](https://www.youtube.com/@LogosByNick)
+- [Inkscape: Learning Inkscape](https://inkscape.org/learn/)
+- [Logos By Nick (YouTube)](https://www.youtube.com/@LogosByNick)
+- [inkscape tutorials blog](https://inkscapetutorials.wordpress.com/)
 
 #### Krita
 
@@ -106,7 +108,12 @@ Krita is a Free and Open Source painting program focusing on illustrations and c
 
 Krita supports exporting pixel graphics in CMYK profiles out of the box (not as PDF  or other vector files though).
 
-**TODO: we should list a few resources for learning to use this software here**
+Website: https://krita.org/
+
+Here are a few resources for working with Krita:
+
+- [Krita Manual](https://docs.krita.org/en/)
+- [David Revoy Tutorials (YouTube Playlist)](https://www.youtube.com/playlist?list=PL1f3KX119RCV3tdXTKuWDltY9YCpH-Q7w)
 
 #### GIMP (Windows, Linux, macOS)
 
@@ -116,7 +123,9 @@ GIMP supports CMYK color profiles via decomposition, e.g. using the plugins [Sep
 
 Website: https://www.gimp.org/
 
-(we should list a few resources for learning to use this software here)
+Here are a few resources for working with GIMP:
+
+- [GIMP: Tutorials](https://www.gimp.org/tutorials/)
 
 ### Getting Feedback
 
@@ -141,7 +150,7 @@ To avoid this from happening, print shops will require you to send them a file t
 
 Most sticker printers provide templates you can use for your stickers, and sheets explaining the distances and tolerances in detail.
 
-**TODO: add an example here**
+![an example of what those templates may look like on a German print shop’s website](./druckdaten-example.png)
 
 Be aware that you *can* overdo this! If you leave too much space around the picture you want to show, the end product will have a large border around the actual design, which will then look small and…weird. It’s happened to us before!
 
