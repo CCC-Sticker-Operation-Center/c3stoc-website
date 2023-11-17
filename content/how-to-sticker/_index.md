@@ -76,11 +76,15 @@ There are broadly two different kinds of graphic files, and most graphics softwa
 **Raster graphics** (bitmap files) are basically what you get when you take a digital photo, or save one of your MS Paint creations. In a simplified way, it contains information about pixels arranged on a 2-dimensional grid, that can be modified individually. This is also what happens when you increase the contrast of a picture or paint a stroke with a “pencil” tool.  
 Such files tend to take up more disk space, but if you need to manipulate pictures or even paint digitally, there’s not really a way around them.
 
-**TODO: insert a few examples here for a better understanding**
+![Scan of the “Laber nich, tuwat!” sticker](./tuwat.jpg)
+
+This [sticker design](https://hacker-archive.org/ark:/45490/bfc5nO) is a good example for one where raster graphics are required, since it makes use of an [existing public domain poster](https://en.wikipedia.org/wiki/We_Can_Do_It!).
 
 **Vector graphics** on the other hand contain information about shapes and lines, possibly editable text and information about their color. This means you can scale them as large in size as you want without losing quality, like you would with bitmap files. Vector graphics are great for logos, warning labels, or depicting less complex objects, and have a smaller footprint. 
 
-**TODO: insert a few examples here for a better understanding**
+![notice sign “cat ears must be worn”](./cat-ears.svg)
+
+[This design](https://hacker-archive.org/ark:/45490/bu8YxI) is a good example for a typical vector graphic candidate because it only contains text and simple shapes.
 
 #### Inkscape
 
