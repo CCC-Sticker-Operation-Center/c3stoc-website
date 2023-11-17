@@ -5,10 +5,10 @@ menu = "sidebar"
 weight = 500
 +++
 
-As promised during our talk at Camp we are finally releasing our tips and tricks for people who want to start making stickers!
+As promised during [our talk at Camp](https://media.ccc.de/v/camp2023-57194-from_c3stoc_with_love_3) we are finally releasing our tips and tricks for people who want to start making stickers!
 
 Before we get started:
-- we’ve tried to find the right balance between telling you everything you need to know and not drowning you in too much information – if you think we have missed something essential, please get in touch with us!
+- we’ve tried to find the right balance between telling you everything you need to know and not drowning you in too much information – if you think we have missed something essential, please [get in touch with us](mailto:exchange@stickeroperation.center)!
 - there are more nice tools, good printers and resources than the one we list here – it is always a great idea to ask communities and people around you for advice. Or do some additional research!
 - if you have any specific questions, we’re always happy to help you point to an answer :)
 
@@ -92,7 +92,7 @@ Website: https://inkscape.org/
 
 Here are a few good resources for working with Inkscape:
 
-- https://www.youtube.com/@LogosByNick
+- [YouTube: Logos By Nick](https://www.youtube.com/@LogosByNick)
 
 #### Krita
 
@@ -167,7 +167,7 @@ Website: https://www.scribus.net/
 
 These are a few ways you can use Scribus to convert a PDF to a CMYK color profile:
 
-- [YouTube (Logos By Nick): Create CMYK Files with Inkscape](https://www.youtube.com/watch?v=RNkWXwk_H8o)  
+- [Logos By Nick (YouTube): Create CMYK Files with Inkscape](https://www.youtube.com/watch?v=RNkWXwk_H8o)  
   This explains how to do it manually, with an easy way to adjust colors if they look different after the conversion. This technique has worked best for us.
 - [Color-managed PDF export using Scribus](https://wiki.inkscape.org/wiki/index.php/Release_notes/1.0.1#Color-managed_PDF_export_using_Scribus)  
   If you set Inkscape and Scribus up correctly, you can directly export CMYK PDFs from Inkscape (with some restrictions).
@@ -192,7 +192,7 @@ Most official bodies, institutions, political parties, etc. provide style guides
 
 #### Other solutions or resources
 
-- [YouTube (Logos By Nick): Solving Inkscape's Biggest Problem: CMYK](https://www.youtube.com/watch?v=B_lFwSJePcI)
+- [Logos By Nick (YouTube): Solving Inkscape's Biggest Problem: CMYK](https://www.youtube.com/watch?v=B_lFwSJePcI)
 
 ## Printing
 
