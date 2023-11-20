@@ -239,8 +239,6 @@ That said, there are two options (in Germany) we can’t say anything bad about:
 - [stickma.de](https://www.stickma.de/)
 - [wir-machen-druck.de](https://www.wir-machen-druck.de/)
 
-Also, we’ve never worked with them, but as we know a lot of people like the Github-Style prints: If that’s what you’re looking for, have a look at Stickermule!
-
 ## Sticker distribution
 
 ### In person
