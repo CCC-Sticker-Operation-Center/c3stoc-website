@@ -21,7 +21,7 @@ description = "Federating Stickerboxes since 36C3"
 title404 = "Nothing’s here!"
 
 [params.assets]
-favicon = "favicon-rc3.png"
+favicon = "favicon-rainbow.png"
 customCSS = ["css/custom.css"]
 customJS = ["js/custom.js"]
 
