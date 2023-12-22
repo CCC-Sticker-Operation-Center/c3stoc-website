@@ -8,12 +8,12 @@ We can’t believe it’s 2023 already and we’ve only done this once: We’re 
 
 It’s been a while but we will basically stick with our initial plan from 4 years ago, hence the short post—not much news to share here:
 
-- We are currently planning sticker boxes (exchange points) spread accross CCH
-- does your assembly want to have a box? Let us know by December 20th either by email or private message on [chaos.social](https://chaos.social/@c3stoc)
+- We are currently planning sticker boxes (exchange points) spread accross CCH - if you have already messaged us about this, we'll get back to you very soon!
+- Does your assembly want to have a box? Let us know by December 24th, 1pm Hamburg time, either by email or private message on [chaos.social](https://chaos.social/@c3stoc) - very fes spots left!
 - We will announce where the sticker exchange points shortly before Congress starts
 - You will be able to either drop stickers directly in the boxes, or bring them to Chaos Post to get them delivered to the exchange points
 
-In the meantime we’re looking forward to seeing pictures of your designs on chaos.social—@ us and we'll boost! If you’re still working on your designs, have a look at our guide: https://stickeroperation.center/how-to-sticker/
+In the meantime we’re looking forward to seeing pictures of your designs on chaos.social—@ us and we'll boost! If you’re still working on your designs (and if you have a way to print in a very short time!), have a look at our guide: https://stickeroperation.center/how-to-sticker/
 
 See you soon, we can’t wait!
 
@@ -25,7 +25,7 @@ No, sorry—we did that only as long as there was no in-person event. We underst
 
 **I want my assembly to have a sticker box, what should I do?**
 
-That’s great! You should let us know ASAP and by December 20th, latest, either by email or in a private message on chaos.social. We’ll get back to you as soon as we have decided where the boxes will be. If we have more candidates than we can handle, we’ll pick the assemblies according to location so the boxes are spread evenly through the CCH.
+That’s great! You should let us know ASAP and by December 24th 1pm, latest, either by email or in a private message on chaos.social. We’ll get back to you as soon as we have decided where the boxes will be. If we have more candidates than we can handle, we’ll pick the assemblies according to location so the boxes are spread evenly through the CCH.
 
 If we approve your sticker box, you’ll have to find a box (more information below). We’ll come by on day 0 or early day 1 and give you a sign that will help people to find your box. That’s basically it :)
 
@@ -45,4 +45,5 @@ Fancy backlit boxes sound like a good idea, but they're not: you can’t see the
 
 Yes, we can! We actually wrote a guide to help people who want to make stickers, you can find it here: https://stickeroperation.center/how-to-sticker/
 
-If you have read it and have any additional questions, or if you would like feedback on your design, [drop us an email](mailto:exchange@stickeroperation.center)!
+If you have read it and have any additional questions, or if you would like feedback on your design, [drop us an email](mailto:exchange@stickeroperation.center)! 
+But you should be aware that at the time we publish this post, it's very hard to get stickers to be delivered in time for Congress ;)
