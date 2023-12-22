@@ -1,7 +1,7 @@
 ---
 title: "Sticker Operation Center @37c3 \\o/"
 linktitle: "Sticker Operation Center @37c3 \\o/"
-date: 2023-12-19
+date: 2023-12-22
 ---
 
 We can’t believe it’s 2023 already and we’ve only done this once: We’re back to taking care of the sticker distribution at Congress!
