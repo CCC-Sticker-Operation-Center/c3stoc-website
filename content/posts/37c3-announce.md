@@ -9,7 +9,7 @@ We can’t believe it’s 2023 already and we’ve only done this once: We’re 
 It’s been a while but we will basically stick with our initial plan from 4 years ago, hence the short post—not much news to share here:
 
 - We are currently planning sticker boxes (exchange points) spread accross CCH - if you have already messaged us about this, we'll get back to you very soon!
-- Does your assembly want to have a box? Let us know by December 24th, 1pm Hamburg time, either by email or private message on [chaos.social](https://chaos.social/@c3stoc) - very fes spots left!
+- Does your assembly want to have a box? Let us know by December 24th, 1pm Hamburg time, either by email or private message on [chaos.social](https://chaos.social/@c3stoc) - very few spots left!
 - We will announce where the sticker exchange points shortly before Congress starts
 - You will be able to either drop stickers directly in the boxes, or bring them to Chaos Post to get them delivered to the exchange points
 
