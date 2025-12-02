@@ -23,7 +23,7 @@ In the meantime, we look forward to seeing pictures of your designs on [Mastodon
 
 That's great! Please let us know as soon as possible, either [by email](mailto:exchange@stickeroperation.center) or via a [private message on chaos.social](https://chaos.social/@c3stoc). We'll get back to you as soon as we've decided where to put the boxes. If we receive more requests than we can handle, we will have to select which assemblies receive a box.
 
-[We have guidelines for assemblies who want to run a sticker box](39c3-c3stoc-stickerbox-guidelines.pdf) – please make sure you read them carefully! You will have to explicitly agree to the rules, as we had some issues last time.
+[We have guidelines for assemblies who want to run a sticker box](/39c3-c3stoc-stickerbox-guidelines.pdf) – please make sure you read them carefully! You will have to explicitly agree to the rules, as we had some issues last time.
 
 Of course, if we don't approve your box, it doesn't mean that your assembly shouldn't have a sticker exchange. The more, the better! It just means that we won't be distributing stickers to it, as we can't handle too many boxes. However, we're sure that people will find it and fill it!
 
