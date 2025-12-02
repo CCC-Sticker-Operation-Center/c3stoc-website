@@ -4,8 +4,6 @@ linktitle: "Sticker Operation Center at 39c3"
 date: 2025-12-02
 ---
 
-# Sticker Operation Center at 39c3
-
 After taking a break last year, we're getting ready for c3stoc at 39c3! 
 
 We’ve done this a couple of times by now and we don’t plan to make any big changes. As usual, we’ll make sure there are sticker boxes spread across the event, with fresh stickers regularly delivered to them. 
