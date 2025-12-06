@@ -45,7 +45,7 @@ If you need more inspiration, consider checking out one of those projects:
 
 - [DevLids](https://devlids.com/)
 - [Chaos Sticker Collection](https://mwarning.github.io/chaos-sticker-collection/)
-- [Hacker Archive: The Sticker Archive](https://hacker-archive.org/item-set/6601)
+- [Hacker Archive: The Sticker Archive](https://hacker-archive.org/s/Start/item-set/6601)
 - [The Sticker Archive](https://stickerarchive.org) – currently inactive
 
 Another way to start out with a sticker design can be around an impressive, fun, or just cool photograph you or somebody else took at a Chaos event. The “Bundeslichtagentur” design for example builds upon an impressive shot from Chaos Communication Camp that has been published under a Creative Commons license.
@@ -80,13 +80,13 @@ Such files tend to take up more disk space, but if you need to manipulate pictur
 
 ![Scan of the “Laber nich, tuwat!” sticker](./tuwat.jpg)
 
-This [sticker design](https://hacker-archive.org/ark:/45490/bfc5nO) is a good example for one where raster graphics are required, since it makes use of an [existing public domain poster](https://en.wikipedia.org/wiki/We_Can_Do_It!).
+This [sticker design](https://hacker-archive.org/s/ccc-archiv/item/10652) is a good example for one where raster graphics are required, since it makes use of an [existing public domain poster](https://en.wikipedia.org/wiki/We_Can_Do_It!).
 
 **Vector graphics** on the other hand contain information about shapes and lines, possibly editable text and information about their color. This means you can scale them as large in size as you want without losing quality, like you would with bitmap files. Vector graphics are great for logos, warning labels, or depicting less complex objects, and have a smaller footprint. 
 
 ![notice sign “cat ears must be worn”](./cat-ears.svg)
 
-[This design](https://hacker-archive.org/ark:/45490/bu8YxI) is a good example for a typical vector graphic candidate because it only contains text and simple shapes.
+[This design](https://hacker-archive.org/s/ccc-archiv/item/13591) is a good example for a typical vector graphic candidate because it only contains text and simple shapes.
 
 #### Inkscape
 
@@ -268,6 +268,6 @@ You can do that for example by putting it into a public git repository and relea
 Alternatively, you can consider submitting it to one or more of these projects collecting such designs:
 
 - [Chaos Sticker Collection](https://mwarning.github.io/chaos-sticker-collection/) (make sure your design uses a free license)
-- [Hacker Archive](https://hacker-archive.org/contribute) (also keeps non-free designs)
+- [Hacker Archive](https://hacker-archive.org/s/ccc-archiv/page/contribute) (also keeps non-free designs)
 
 Oh, and of course: We’d be super happy to see your design! Share it with us on chaos.social, or say hi at Chaos events! We’re looking forward to your creativity :D
