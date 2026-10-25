@@ -237,7 +237,6 @@ We try to avoid advertising print shops for sticker printing, simply because tha
 That said, there are two options (in Germany) we can’t say anything bad about:
 
 - [stickma.de](https://www.stickma.de/)
-- [wir-machen-druck.de](https://www.wir-machen-druck.de/)
 
 ## Sticker distribution
 
