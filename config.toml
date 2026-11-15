@@ -1,6 +1,6 @@
 baseURL = "https://stickeroperation.center/"
 languageCode = "en-us"
-title = "Sticker Operation Center"
+title = "c3stoc"
 theme = "minimo-40c3"
 pagination.pagerSize = 10
 
@@ -17,7 +17,7 @@ enableEmoji = true
 defaultContentLanguage = "en"
 
 [params.info]
-description = "Federating Stickerboxes since 36C3"
+description = "Sticker Operation Center"
 title404 = "Nothing’s here!"
 
 [params.assets]
