@@ -1,7 +1,7 @@
 baseURL = "https://stickeroperation.center/"
 languageCode = "en-us"
 title = "Sticker Operation Center"
-theme = "minimo"
+theme = "minimo-40c3"
 pagination.pagerSize = 10
 
 preserveTaxonomyNames = true
