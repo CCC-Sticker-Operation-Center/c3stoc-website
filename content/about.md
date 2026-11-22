@@ -4,4 +4,4 @@ menu = "sidebar"
 weight = 1000
 +++
 
-We are Shiro and manu. (Soon more here)
+We are Shiro, manu and a good handful of shining volunteers :)
