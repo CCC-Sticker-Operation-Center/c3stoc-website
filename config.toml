@@ -22,8 +22,6 @@ title404 = "Nothing’s here!"
 
 [params.assets]
 favicon = "favicon-rainbow.png"
-customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -35,7 +33,7 @@ hideEntryMeta = true # boolean / array of sections
 showReadingTime = false
 showLastmod = false
 taxonomyCloudShuffle = false
-accentColor = "#6800e7"
+accentColor = "#F28931"
 hideMainMenu = true
 
 [params.sidebar]
