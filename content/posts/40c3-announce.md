@@ -4,8 +4,6 @@ linktitle: "Sticker Operation Center at 40c3"
 date: 2026-11-22
 ---
 
-Sticker Operation Center at 40c3
-
 This year again we’re getting ready for c3stoc at 40c3!
 
 And we’re going to stick to the proven process from the past years as well.
